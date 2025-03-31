@@ -65,3 +65,9 @@ This dashboard provides an overview of year-to-date (YTD) e-commerce sales perfo
 
 **Purpose & Business Use Case:**
 This dashboard is designed for business executives and sales teams to monitor e-commerce sales trends, profitability, and performance across different categories and regions. It helps identify growth opportunities, underperforming products, and areas requiring strategic focus to optimize revenue and profitability.
+
+Data: https://github.com/yogesh8536/Ecommerce-Dashboard/blob/main/ecommerce_data.csv
+
+Dashboard: https://github.com/yogesh8536/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.pbix
+
+images: https://github.com/yogesh8536/Ecommerce-Dashboard/blob/main/Ecommerce%20dashboard.JPG
